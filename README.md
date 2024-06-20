@@ -1,5 +1,4 @@
-# __Welcome!__
-##### ようこそ！
+# __Welcome!__ ##### ようこそ！
 
 <!--
 **KuroYuki009/KuroYuki009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
